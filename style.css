@@ -73,3 +73,11 @@ header {
 	background-color: #333;
 	color: white;
 }
+
+.profile-pic{
+  border: 2px double white;
+  border-radius: 1000px;
+  margin: 10px;
+  width:150px;
+  height:150px;
+}
